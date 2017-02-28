@@ -1,2 +1,7 @@
-# Project-1-CSPC-131-Trinh
-Given the data in the text files, display their name, weight, and weight. Also if there is a popular name. 
+CSUF CPSC 131, Spring 2017
+Project 1
+
+Group members:
+Vincent Tran tranvc1@csu.fullerton.edu
+Kenji Avila kenji.avila@csu.fullerton.edu
+
